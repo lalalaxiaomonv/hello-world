@@ -1,2 +1,6 @@
 # hello-world
-just a repository
+
+Hi humans!
+
+I'm lalala.It's my first time to touch github!
+
